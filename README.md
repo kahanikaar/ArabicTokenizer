@@ -1,9 +1,9 @@
 # ArabicTokenizer
-Contains codes for Tokenizing Arabic text through Morphological Analysis.
-Python Scripts developed are as follows:
-Preprocessing.py
-Morphology.py
-Tokenizer.py  
+Contains codes for Tokenizing Arabic text through Morphological Analysis.  
+Python Scripts developed are as follows:  
+- Preprocessing.py
+- Morphology.py
+- Tokenizer.py  
   
     
       
