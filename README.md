@@ -4,6 +4,7 @@ Python Scripts developed are as follows:
 - Preprocessing.py
 - Morphology.py
 - Tokenizer.py  
+- main.py  
   
     
       
